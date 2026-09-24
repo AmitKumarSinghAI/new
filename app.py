@@ -1,5 +1,9 @@
 from datetime import datetime
 
+# Get the current date and time
+current_datetime = datetime.now()
 
-print(datetime.now())
-print(datetime)
+print("Current date and time:", current_datetime)
+
+# Print the datetime class
+print("Datetime class:", datetime)
