@@ -1,4 +1,5 @@
 from datetime import datetime
-a = 3
-b = 3
-print(a+b)
+
+
+print(datetime.now())
+print(datetime)
